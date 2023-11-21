@@ -795,7 +795,7 @@ button {
 }
 
 .joins {
-  margin-bottom: 50px;
+  padding: 50px;
 }
 
 .join {
@@ -805,7 +805,6 @@ button {
   padding: 45px 50px;
   margin: 0 auto;
   max-width: 968px;
-  height: 345px;
   -ms-flex-negative: 0;
       flex-shrink: 0;
   border-radius: 32px;
